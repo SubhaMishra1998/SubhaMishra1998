@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **few of the devops tools like terraform.**
 
-- 👯 I’m looking to collaborate on **passionate software engineer**
+- 👯 I’m looking to collaborate on **crazy ideas and with likeminded people**
 
 - 💬 Ask me about **docker, terraform, linux and most importantly Python**
 
