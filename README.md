@@ -1,6 +1,6 @@
 ![logo](https://github.com/SubhaMishra1998/SubhaMishra1998/blob/main/bannerGit.png)
 <h1 align="center">Hi 👋, I'm Subha Mishra</h1>
-<h3 align="center">A passionate Developer and Devops Engineer from India</h3>
+<h3 align="center">A passionate AI Developer and Devops Engineer from India</h3>
 <img align="right" alt="coding" width="500" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhamishra1998&label=Profile%20views&color=0e75b6&style=flat" alt="subhamishra1998" /> </p>
